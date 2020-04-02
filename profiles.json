@@ -10,7 +10,7 @@
         },
         {
             "name": "Robert",
-            "picture": "./instructors/rafting-instructor-500.jpg",
+            "picture": "https://raw.githubusercontent.com/IgorCopa/json-profiles/master/instructors/rafting-instructor-500.jpg",
             "certification_level": "Junior",
             "years_of_experience": "3",
             "email_address": "robert@sradventures.com",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Patrick",
-            "picture": "./instructors/wake-boarding-instructor-500.jpg",
+            "picture": "https://raw.githubusercontent.com/IgorCopa/json-profiles/master/instructors/wake-boarding-instructor-500.jpg",
             "certification_level": "Mid-level",
             "years_of_experience": "5",
             "email_address": "patrick@sradventures.com",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Julie",
-            "picture": "./instructors/kayaking-instructor-500.jpg",
+            "picture": "https://raw.githubusercontent.com/IgorCopa/json-profiles/master/instructors/kayaking-instructor-500.jpg",
             "certification_level": "Senior",
             "years_of_experience": "7",
             "email_address": "julie@sradventures.com",
