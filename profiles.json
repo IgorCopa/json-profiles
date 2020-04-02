@@ -2,7 +2,7 @@
     "profiles": [
         {
             "name": "Mary",
-            "picture": "./instructors/tubing-instructor-500.jpg",
+            "picture": "https://github.com/IgorCopa/json-profiles/blob/master/instructors/tubing-instructor-500.jpg",
             "certification_level": "Junior",
             "years_of_experience": "3",
             "email_address": "mary@sradventures.com",
